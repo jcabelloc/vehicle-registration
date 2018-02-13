@@ -1,0 +1,4 @@
+Showing result retrieved from the Database...
+CriminalHistory [driverLicense=35121327, firstName=Gray, lastName=Lysle, dateOfBirth=5/15/1978, charge=16-301(j), propertyDamage=false, personalInjury=true, levelOfOffense=1, chargesPending=true, violationDescription=POSSESSING SUSPENDED LIC.]
+CriminalHistory [driverLicense=70416678, firstName=Tabor, lastName=Lysle, dateOfBirth=12/24/1980, charge=21-902(a2), propertyDamage=false, personalInjury=true, levelOfOffense=3, chargesPending=true, violationDescription=DRIVING UNDER THE INFLUENCE OF ALCOHOL PER SE]
+
